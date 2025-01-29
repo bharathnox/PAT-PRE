@@ -1,1 +1,0 @@
-25 to 1 in min steps, 1 can be only used for division or n-1;
